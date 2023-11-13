@@ -90,7 +90,7 @@ Oy ver (YAKINDA)</a>
                   <p className="text-3xl text-white font-semibold">En İyi Tr Ekonomi Botu</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Bu bot ile ticaret yapıp arkadaşların ile vakit geçirmeye hazırmısın ? o zaman botu kendi sunucuna davet et ve eğlence başlasın !</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1164545587283238963/1173632467379441755/Screenshot_77.png?ex=6564a969&is=65523469&hm=f47ead70e79dac2f07377844b2a3c596f5025939740ba119e618ecd102d64da9&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
