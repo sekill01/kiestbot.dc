@@ -18,7 +18,7 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/QTtVUNkzKt">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/676124992919830548/68ef946cf7cc39e4063eed4d446f6dda.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1164545587283238963/1173636695443390504/indir.png?ex=6564ad59&is=65523859&hm=c52d4dd9e6f0ad8c71a786d45d2e9cd906b2fc0f75831ee541eb01de069d51aa&" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Roxen Development</h1>        
                                 <div className="flex items-center mt-1">
@@ -34,7 +34,7 @@ export default function Partners() {
                     <div className="flex flex-col justify-center text-white rounded">
                         <a href="https://discord.gg/veigar">
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/924312493537509407/721de16575a9048c9c6980613ebb99f0.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1164545587283238963/1173636725952749639/20231013_223912.png?ex=6564ad60&is=65523860&hm=e8335588484f5b62d4fab1d6c1ea223ce31889fc9b23069e399b9644d3915b93&" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Veigar Topluluğu</h1>        
                                 <div className="flex items-center mt-1">
