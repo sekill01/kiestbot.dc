@@ -87,8 +87,8 @@ Oy ver</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/1164545587283238963/1173632467379441755/Screenshot_77.png?ex=6564a969&is=65523469&hm=f47ead70e79dac2f07377844b2a3c596f5025939740ba119e618ecd102d64da9&"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Astra, the best and most up-to-date bot?</p>
+                  <p className="text-3xl text-white font-semibold">En İyi Tr Ekonomi Botu</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Bu bot ile ticaret yapıp arkadaşların ile vakit geçirmeye hazırmısın ? o zaman botu kendi sunucuna davet et ve eğlence başlasın !</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1164545587283238963/1173632467379441755/Screenshot_77.png?ex=6564a969&is=65523469&hm=f47ead70e79dac2f07377844b2a3c596f5025939740ba119e618ecd102d64da9&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
