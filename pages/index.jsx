@@ -7,8 +7,7 @@ export default function Index() {
     <>
       <div className="py-20 mb-30 max-w-3xl mx-auto">
         <div className="flex w-full justify-center">
-      <img width="500" src="https://discord.com/api/oauth2/authorize?client_id=1159522977830944788&permissions=8&scope=bot" />
-      </div>
+      <img width="500" src="/img/bck.png" />
         <p className="animateHeader text-4xl font-extrabold text-center text-white">
           Kiest Bot
         </p>
