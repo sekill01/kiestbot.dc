@@ -17,7 +17,7 @@ export default function Index() {
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://bit.ly/3PHDjyC"}>
+            <Link href={"https://discord.com/api/oauth2/authorize?client_id=1159522977830944788&permissions=8&scope=bot"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
@@ -56,8 +56,8 @@ Oy ver</a>
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
-                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, Astra gives you a musical pleasure to the fullest.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimizasyon</p>
+                  <p className="text-gray-500 line-clamp-4">Kiest, sunucunuza özel hızlı ve eğlenceli . Resmen üst bir seviye.</p>
                 </div>
               </div>
               <div>
